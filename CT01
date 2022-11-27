@@ -1,0 +1,16 @@
+Caso de Teste - Validar Funcionalidade "Pesquisar Hotel"
+Pré-Condição = Acesso a internet e google chrome instalado no computador
+
+Passo a Passo
+
+1 - Acessar o site https://123milhas.com/
+2 - Fechar janela de pop up da página inicial
+3 - Selecionar o Menu "Hotel"
+4 - Clicar no campo de busca por cidade
+5 - Preencher a informação "Garopaba"
+6 - Selecionar a primeira opção da lista que irá aparecer em tela
+7 - Preencher a data de "check-in"
+8 - Preencher a data de "Check-out"
+9 - Clicar no botão "Buscar"
+
+Resultado Esperado: Usuário deve ser direcionado para a página de resultado da busca, conforme critérios preenchidos
